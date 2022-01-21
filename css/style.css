@@ -1,0 +1,17 @@
+.margin-bottom {
+  margin-bottom: 100px;
+}
+
+.section-banner {
+  background-color: #feeae9;
+}
+
+.banner-img {
+  width: 402px;
+  height: 378px;
+}
+
+.btn-pink {
+  background-image: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  border-radius: 6px;
+}
