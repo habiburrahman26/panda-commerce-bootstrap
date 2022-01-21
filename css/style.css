@@ -2,7 +2,8 @@
   margin-bottom: 80px;
 }
 
-.section-banner {
+.section-banner,
+.section-subscribe {
   background-color: #feeae9;
 }
 
@@ -30,10 +31,16 @@
   color: #fff;
 }
 
-main {
-  background-color: #f4f4f4;
-}
 
 .shoes{
     border-radius: 10px;
+}
+
+footer{
+    font-size: 14px;
+    margin-bottom: -10px;
+}
+
+form button{
+    background-image: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
 }
