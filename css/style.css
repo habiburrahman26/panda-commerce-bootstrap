@@ -20,12 +20,20 @@
   border-radius: 6px;
 }
 
-.category img{
-    width: 100px;
+.category img {
+  width: 100px;
 }
 
-.cta{
-    padding: 10px 30px;
+.cta {
+  padding: 10px 30px;
+  border-radius: 10px;
+  color: #fff;
+}
+
+main {
+  background-color: #f4f4f4;
+}
+
+.shoes{
     border-radius: 10px;
-    color: #fff;
 }
