@@ -1,4 +1,4 @@
-.margin-bottom {
+.margin-bottom-large {
   margin-bottom: 100px;
 }
 
@@ -9,6 +9,10 @@
 .banner-img {
   width: 402px;
   height: 378px;
+}
+
+.price {
+  color: #ff136f;
 }
 
 .btn-pink {
